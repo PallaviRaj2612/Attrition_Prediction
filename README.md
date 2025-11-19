@@ -4,7 +4,6 @@ This project focuses on predicting employee attrition using machine learning tec
 The goal is to identify employees at risk of leaving the organization based on various personal, professional, and performance-related factors.
 
 Dataset
-
 The dataset contains employee information including demographic details, job satisfaction, work-life balance, and performance metrics. Key features include:
 Age
 Monthly Income
@@ -26,7 +25,6 @@ Visualized feature importance and correlations.
 Identified top factors contributing to attrition, e.g., OverTime, Age, Job Satisfaction, Monthly Income.
 
 Modeling
-
 Multiple machine learning models were tried including:
 Random Forest
 XGBoost
